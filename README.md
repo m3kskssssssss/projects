@@ -7,4 +7,8 @@
                                        3) Ввод знака действия
                                        4) Вывод результата
 Особенность: частное двух введеных чисел будет выведено с точностью до сотых 0,00.
-Скриншоты тестов:
+Скриншоты тестов версии 2.0 программы для мат. вычислений приведены ниже:
+![Alt-текст](https://github.com/m3kskssssssss/projects/blob/main/test_mathprogramm_1.png)
+![Alt-текст](https://github.com/m3kskssssssss/projects/blob/main/test_mathprogramm_2.png)
+![Alt-текст](https://github.com/m3kskssssssss/projects/blob/main/test_mathprogramm_3.png)
+
